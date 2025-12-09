@@ -24,3 +24,9 @@ Steven A. Niño Rivera - 20231020209
 ## Diagrama de Clases UML
 
 [Gestion de eventos UML](https://drive.google.com/file/d/1q1im0InTsTlDHK_P1AMJPxaSxx1-uQKa/view?usp=sharing)
+
+## Requerimientos
+[Documento de Ingeniería de Requerimientos](https://docs.google.com/document/d/1D5ae_sMmJaKMpS5fuS-5Zi4l6vyZnK-kiTYEeOZQNRI/edit?usp=sharing)
+
+## Video Aplicación Funcional
+[Carpeta Videos Gestion Eventos](https://drive.google.com/drive/folders/1kVZB57fh7HScQ2l32vXQLmXPrS_CHAzV?usp=sharing)
